@@ -1,4 +1,4 @@
-# EXA-note
+# EAX-note
 
 ## 类的构造函数 `TCross` 和析构函数
 
@@ -773,6 +773,7 @@ for (int s = 0; s < fNumOfSeg; ++s) {
 ## Opt算法
 
 Opt算法：2-opt，3-opt，Or-opt，k-opt-CSDN博客
+https://blog.csdn.net/sinat_41348401/article/details/126920506
 
 这段代码实现的是一个基于2-opt算法的路径优化问题，可能是用于解决类似**旅行商问题（TSP，Travelling Salesman Problem）**的场景。算法通过不断反转路径中的部分段落，来寻找更短的路径。
 
